@@ -1,0 +1,183 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,q:before, q:after {
+	content: ''; content: none;
+}
+:focus {
+	outline: 0;
+}
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block;
+}
+BODY {
+	color:#333333;
+	background:#C0C0C0;
+	font-size:14px;
+	font-family:  Arial,Verdana, Times New Roman,  sans-serif;
+	font-weight:400
+}
+
+.clear:after {
+	display: table;
+	clear: both;
+	content: '';
+}
+.wrapper {
+	margin: 0 auto 15px;
+	position: relative;
+	width: 900px;
+	background:#fff;
+}
+.box {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.inline-box {
+	display: -moz-inline-box;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	vertical-align: top;
+}
+	p, li {line-height:1.4em}
+	
+	h1{
+	font: bold 20px Arial, Helvetica, sans-serif;
+	text-align: left;
+	color: #069;
+	line-height: 1.2em;
+	margin:10px 0
+}
+h2{
+	font:	Arial;
+	font-size: 18px;
+	font-weight: bold;	
+	text-align: left;
+	color: #069;
+	margin-top: 3em;
+	margin-bottom: 1em;
+}
+h3 {
+	font:	Arial;
+	font-size: 16px;
+	font-weight: bold;	
+	text-align: left;
+	color: #036;
+}
+h4{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	color: #090;
+}
+
+	.header {border-bottom:8px #666666 solid}
+	.main {background:#fff;position:relative;line-height:1.4em}
+	.main:before {background:#ccccff;    content: "";    display: block;    height: 100%;    left: 0;    min-height: 100%;    position: absolute;    top: 0;    width: 230px;    z-index: 2;}
+		.left_block {width:210px;float:left;padding:10px;position:relative;z-index:3}		
+		.right_block {padding:10px;margin-left:200px;overflow:hidden}
+		
+	.footer {background:#666666 url(../images/bgmenudown.jpg) 0 0 repeat-x;padding:20px 10px;color:#fff}	
+		.footer_left {float:left;color:#fff}
+		.footer_left a {color:#fff;text-decoration:none}
+		.footer_right {float:right}
+		.footer p {color:#fff}
+		
+	.left_block p {margin:10px 0}	
+	
+	.leftrubrika {background:#ebebeb;border:1px solid #999}
+		.leftrubrika .the_name {padding:10px 5px 10px 10px;background:#069;color:#fff;font-weight:bold;font-size:14px}
+		.leftermenu ul li:after {display: table;	clear: both;	content: '';}
+		.leftermenu ul li {padding:5px;border-bottom:1px solid Gray;margin:0}
+		.leftermenu ul li:last-child {border:0}
+		.leftermenu ul li a {display:block;font-size:14px;font-weight:bold;color:#333333;line-height:30px}
+		.leftermenu ul li a:hover {color:#000}
+		.leftermenu ul li img {float:left;margin:0 10px 0 0}
+		
+		.consultant_img {padding:5px;border-bottom:1px solid Gray}
+		.consultant_text {padding:5px}
+		
+		.extlccsSimpleCalc {margin:0 0 10px}
+		
+		.interes_list {margin:0 0 10px}	
+		.interes_list .the_name {padding:10px;background:#069;color:#fff;font-weight:bold;font-size:14px}
+			.int_block p {margin:10px 0;font-size:14px}
+			.int_block p:after {display: table;	clear: both;	content: '';}
+			.int_block img {margin:0 10px 0 0}
+			
+		.newslist {background:#ebebeb;border:1px solid #999}	
+			.newslist .the_name {padding:10px 5px 10px 10px;background:#069;color:#fff;font-weight:bold;font-size:14px}
+			.last_news {padding:10px}
+			
+		.videoboxes {margin:10px 0;}	
+		.videoboxes:after {display: table;	clear: both;	content: '';}
+			.video_div {width:48%;float:left;}
+			.video_div+.video_div {width:48%;float:right;}
+			.videoboxes h4 {font-size:20px}
+			
+	.right_block ul {margin:10px 0;padding-left:35px;list-style:disc}	
+
+		.comments_divs {border: 1px solid #ccccff; padding: 10px;}
+		
+		.right_block p, .right_block h3, .right_block h4 {margin:10px 0}
+		
+		
+		.title_line h4{float: left;}
+.big_image{clear: left;}
+/*.unit{float: left;width: 290px;}*/
+
+
+/*  слайдер */
+/* @override http://localhost/bxslider_v3_plugin/css/styles.css *//* * To change the color scheme of slider change each  * background property for each of the five styles below *//*next button*/
+.slick-slider {position:relative;overflow:hidden;padding:0 50px}
+.unit {display: -moz-inline-box;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	vertical-align: top;}
+.bx-next {cursor:pointer;	position:absolute;	top:38%;	right:0;	z-index:999;	width: 36px;	height: 100px;	text-indent: -999999px;	background: url(../images/sr.png) no-repeat;}/*previous button*/
+.bx-prev {cursor:pointer;position: absolute;top: 38%;left:0;z-index: 999;width: 36px;height: 100px;text-indent: -999999px;background: url(../images/sl.png) no-repeat;}/*pager links*/
+.bx-pager a {	margin-right: 5px;	color: #fff;	padding: 3px 8px 3px 6px;	font-size: 12px;	zoom:1;	background: url(gray_pager.png) no-repeat 0 -20px;}/*auto start button*/
+.bx-auto .start {	background: url(gray_auto.png) no-repeat 0 2px;	padding-left: 13px;}/*auto stop button*/
+.bx-auto .stop {	background: url(gray_auto.png) no-repeat 0 -14px;	padding-left: 13px;}/* * End color scheme styles *//*pager wrapper*/
+.bx-pager {	text-align:center;	padding-top: 7px;	font-size:12px;	color:#666;}/*captions*/
+.bx-captions {	text-align:center;	font-size: 12px;	padding: 7px 0;	color: #666;}/*auto controls*/
+.bx-auto {	text-align: center;	padding-top: 15px;}
+.bx-auto a {	color: #666;	font-size: 12px;}
+.bx-wrapper{margin-left: 38px;}
+		
