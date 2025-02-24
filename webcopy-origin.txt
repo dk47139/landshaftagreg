@@ -1,0 +1,340 @@
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://landshaftagreg.vercel.app/
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/bg/bg-l1.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\bg\bg-l1.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\cdn-cgi\l\email-protection
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://landshaftagreg.vercel.app/click/1
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\1
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/10
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\10
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/11
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\11
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/12
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\12
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/13
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\13
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/14
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\14
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/15
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\15
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/16
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\16
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/17
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\17
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/2
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\2
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/3
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\3
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/4
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\4
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/5
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\5
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/6
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\6
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/7
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\7
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/8
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\8
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/click/9
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\click\9
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/privacy-policy/
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\privacy-policy\privacy-policy
+Content Type: text/html
+
+Uri: https://landshaftagreg.vercel.app/wp-content/cache/autoptimize/3/css/autoptimize_cf2770157ba7c6343e66b6627d5585a3.css
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\cache\autoptimize\3\css\autoptimize_cf2770157ba7c6343e66b6627d5585a3.css
+Content Type: text/css
+
+Uri: https://landshaftagreg.vercel.app/wp-content/cache/autoptimize/3/js/autoptimize_2e1b2e8a9d3d93fcdbfabfef48a9f432.js
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\cache\autoptimize\3\js\autoptimize_2e1b2e8a9d3d93fcdbfabfef48a9f432.js
+Content Type: application/javascript
+
+Uri: https://landshaftagreg.vercel.app/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.8.1
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\plugins\autoptimize\classes\external\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/fancybox_loading@2x.gif
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/fancybox/fancybox_sprite@2x.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/themes/rating/i/quiz_bg.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\themes\rating\i\quiz_bg.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2023/11/favicon-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2023\11\favicon-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2023/11/favicon.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2023\11\favicon.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/alena-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\alena-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/dizayn-sredy-netologiya-1024x589.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\dizayn-sredy-netologiya-1024x589.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/dizayn-sredy-netologiya-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\dizayn-sredy-netologiya-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/icon-300x300.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\icon-300x300.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-28_215012051-1024x657.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-28_215012051-1024x657.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-28_215012051-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-28_215012051-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_150318351-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_150318351-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_150318351.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_150318351.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_155321797-1024x641.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_155321797-1024x641.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_155321797-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_155321797-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_185318719-1024x621.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_185318719-1024x621.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-29_185318719-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-29_185318719-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-30_153059344-1024x632.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-30_153059344-1024x632.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/izobrazhenie_2024-01-30_153059344-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\izobrazhenie_2024-01-30_153059344-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/onlayn-kursy-landshaftnogo-dizayna-_-mezhdunarodnaya-shkola-professiy-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\onlayn-kursy-landshaftnogo-dizayna-_-mezhdunarodnaya-shkola-professiy-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/onlayn-kursy-landshaftnogo-dizayna-_-mezhdunarodnaya-shkola-professiy.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\onlayn-kursy-landshaftnogo-dizayna-_-mezhdunarodnaya-shkola-professiy.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-3d-vizualizator-skillbox-1024x616.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-3d-vizualizator-skillbox-1024x616.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-3d-vizualizator-skillbox-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-3d-vizualizator-skillbox-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-landshaftnogo-dizaynera-mezhdunarodnaya-schkola-professiy-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-landshaftnogo-dizaynera-mezhdunarodnaya-schkola-professiy-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-landshaftnogo-dizaynera-mezhdunarodnaya-schkola-professiy.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-landshaftnogo-dizaynera-mezhdunarodnaya-schkola-professiy.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-landshaftnyy-dizayner_-skillbox-1024x631.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-landshaftnyy-dizayner_-skillbox-1024x631.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/professiya-landshaftnyy-dizayner_-skillbox-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\professiya-landshaftnyy-dizayner_-skillbox-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/sketchup-dlya-landshaftnyh-dizaynerov-skillbox-1024x629.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\sketchup-dlya-landshaftnyh-dizaynerov-skillbox-1024x629.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/01/sketchup-dlya-landshaftnyh-dizaynerov-skillbox-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\01\sketchup-dlya-landshaftnyh-dizaynerov-skillbox-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/cover1-1024x630.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\cover1-1024x630.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/cover2-1024x699.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\cover2-1024x699.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/cover2-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\cover2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/izobrazhenie_2024-02-01_224847706-1024x629.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\izobrazhenie_2024-02-01_224847706-1024x629.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/izobrazhenie_2024-02-01_224847706-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\izobrazhenie_2024-02-01_224847706-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/izobrazhenie_2024-02-05_182630254-1024x584.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\izobrazhenie_2024-02-05_182630254-1024x584.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/izobrazhenie_2024-02-05_182630254-150x150.png
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\izobrazhenie_2024-02-05_182630254-150x150.png
+Content Type: image/png
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/kurs-landshaftnogo-dizayna-v-britanskaya-vysshaya-shkola-dizayna-1024x645.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\kurs-landshaftnogo-dizayna-v-britanskaya-vysshaya-shkola-dizayna-1024x645.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/kurs-landshaftnogo-dizayna-v-britanskaya-vysshaya-shkola-dizayna-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\kurs-landshaftnogo-dizayna-v-britanskaya-vysshaya-shkola-dizayna-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/kurs-landshaftnogo-dizaynera-dlya-nachinayuschih-_-netologiya-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\kurs-landshaftnogo-dizaynera-dlya-nachinayuschih-_-netologiya-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/kurs-landshaftnogo-dizaynera-dlya-nachinayuschih-_-netologiya.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\kurs-landshaftnogo-dizaynera-dlya-nachinayuschih-_-netologiya.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-dizayn-s-nulya-do-pro_-pentaschool-1024x641.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-dizayn-s-nulya-do-pro_-pentaschool-1024x641.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-dizayn-s-nulya-do-pro_-pentaschool-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-dizayn-s-nulya-do-pro_-pentaschool-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-dizayn_-bazovyy-kurs-dlya-sebya-_-pentaschool-1024x576.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-dizayn_-bazovyy-kurs-dlya-sebya-_-pentaschool-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-dizayn_-bazovyy-kurs-dlya-sebya-_-pentaschool-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-dizayn_-bazovyy-kurs-dlya-sebya-_-pentaschool-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-sketching-_-skillbox-1024x622.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-sketching-_-skillbox-1024x622.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/landshaftnyy-sketching-_-skillbox-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\landshaftnyy-sketching-_-skillbox-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/shkola-sada-_-onlayn-kursy-1024x559.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\shkola-sada-_-onlayn-kursy-1024x559.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/shkola-sada-_-onlayn-kursy-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\shkola-sada-_-onlayn-kursy-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/tematicheskie-kursy-floreal-1024x769.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\tematicheskie-kursy-floreal-1024x769.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-content/uploads/sites/3/2024/02/tematicheskie-kursy-floreal-150x150.jpg
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-content\uploads\sites\3\2024\02\tematicheskie-kursy-floreal-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://landshaftagreg.vercel.app/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/96559988
+File Name: C:\Downloaded Web Sites\landshaftagreg.vercel.app\watch\96559988
+Content Type: image/gif
+
